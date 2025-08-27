@@ -1,0 +1,37 @@
+# Fichiers de configuration sensibles
+config.py
+
+# Dossier de musique téléchargée
+music/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de cache
+*.cache
+.pytest_cache/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de logs
+*.log
+
+# Fichiers d'environnement
+.env
+.venv
+env/
+venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
