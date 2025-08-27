@@ -27,13 +27,3 @@ python dl_spotify_playlist.py
 ```bash
 python dl_playlist.py
 ```
-
-## ⚠️ Important
-
-- **Usage personnel uniquement** - Respectez les droits d'auteur
-- **FFmpeg requis** pour la conversion audio
-- **Configuration sécurisée** : Modifiez `config.py` (NE PAS partager sur GitHub !)
-
----
-
-**Idée simple : Donnez une playlist → Récupérez vos MP3 ! 🎶**
